@@ -1,0 +1,19 @@
+{
+  "name": "next-js-dev-env-with-parcel",
+  "version": "1.0.0",
+  "description": "Next JS Develop Environment with Parcel",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imshengli/next-js-dev-env-with-parcel.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imshengli/next-js-dev-env-with-parcel/issues"
+  },
+  "homepage": "https://github.com/imshengli/next-js-dev-env-with-parcel#readme"
+}
